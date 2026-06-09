@@ -14,6 +14,9 @@ Transformed a messy, semi-colon-delimited Kaggle dataset into a polished, usable
 # Programs Used
 - Excel
 
+# Data source
+[This is the dataset!](https://www.kaggle.com/datasets/davidfuenteherraiz/messy-imdb-dataset) This one is really challenging, I reccomend taking a crack at it yourself and let me know what methods you did! 
+
 # Goals
 - To restore the dataset to a usable state and fill in missing data where applicable.
 
