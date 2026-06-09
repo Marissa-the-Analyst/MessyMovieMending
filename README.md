@@ -5,7 +5,8 @@ Transformed a messy, semi-colon-delimited Kaggle dataset into a polished, usable
 <img width="1558" height="619" alt="image" src="https://github.com/user-attachments/assets/29634a1a-5c0a-4fa3-ae8e-d719538dcbe8" />
 
 ## After
-<img width="1559" height="651" alt="image" src="https://github.com/user-attachments/assets/a2f4700e-360f-454a-a7b8-eeb4c62453a0" />
+<img width="1493" height="701" alt="image" src="https://github.com/user-attachments/assets/b9a79706-4c12-4028-a35a-ba27ad2554f2" />
+
 
 # Finished Product
 - A clean dataset
